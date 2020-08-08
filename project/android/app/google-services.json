@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955622247421",
+    "firebase_url": "https://dont-forget-ab58f.firebaseio.com",
+    "project_id": "dont-forget-ab58f",
+    "storage_bucket": "dont-forget-ab58f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955622247421:android:ca5689e3d07a32d7cb6794",
+        "android_client_info": {
+          "package_name": "com.dontforget.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955622247421-mosv2166ioa7k8730ov5ldlbrgau08ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj6PtVT41YouY1qMzm-7O_dIlIDP2uzFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955622247421-mosv2166ioa7k8730ov5ldlbrgau08ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
